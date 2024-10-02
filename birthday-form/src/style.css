@@ -50,3 +50,6 @@ form {
   form input, form select {
     margin-bottom: 15px;
   }
+  .heading{
+    color: green;
+  }

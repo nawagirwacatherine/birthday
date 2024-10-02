@@ -48,8 +48,9 @@ function App() {
 
   
     <div className="App">
-      <h1>Customer feedback</h1>
+    
       <form onSubmit={handleSubmit}>
+      <h1 className="heading">Customer feedback</h1>
         <fieldset>
      <div className="Field">
       <label htmlFor="name">Name</label>
